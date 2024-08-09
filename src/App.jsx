@@ -72,8 +72,8 @@ function App() {
   async function login() {
     await account.createOAuth2Session(
       'github',
-      'http://localhost:3000',
-      'http://localhost:3000'
+      'https://full-stack-todo-app-xi.vercel.app/',
+      'https://full-stack-todo-app-xi.vercel.app/'
     );
   }
 
