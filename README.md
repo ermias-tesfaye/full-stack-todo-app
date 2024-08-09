@@ -33,7 +33,7 @@ To get started with Smart Pantry, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    https://github.com/ermias-tesfaye/ull-stack-todo-app.git
+    https://github.com/ermias-tesfaye/full-stack-todo-app.git
     ```
 
 2. **Navigate to the project directory:**
